@@ -1,0 +1,53 @@
+body {
+  max-width: 720px;
+  margin: auto;
+  padding: 10px;
+  font-family: monospace, Arial, Helvetica, sans-serif;
+  color: aliceblue;
+  background-color: rgb(47, 43, 43);
+}
+
+main {
+  background-color: rgb(6, 6, 6);
+  border-botton-right-radius: 25px;
+  border-botton-left-radius: 25px;
+  padding: 20px;
+  border-bottom: 2px solid gray;
+}
+
+table {
+  margin: auto;
+  width: 600px;
+  border-spacing: 10px;
+}
+
+th {
+  border-bottom: 1px solid;
+  border-color: aliceblue;
+}
+
+.flex {
+  display: flex;
+}
+
+.secStyle {
+  padding: 5px;
+}
+
+.tabs1 {
+  text-align: right;
+  vertical-align: top;
+  width: 280px;
+}
+
+#divide3 {
+  text-align: center;
+}
+
+#yellow {
+  color: yellow;
+}
+
+#link {
+  color: yellow;
+}
